@@ -1,4 +1,6 @@
+XK
 AF
+AX
 AL
 DZ
 AS
@@ -24,13 +26,12 @@ BJ
 BM
 BT
 BO
-BO
+BQ
 BA
 BW
 BV
 BR
 IO
-BN
 BN
 BG
 BF
@@ -53,9 +54,9 @@ CD
 CK
 CR
 CI
-CI
 HR
 CU
+CW
 CY
 CZ
 DK
@@ -117,7 +118,6 @@ KE
 KI
 KP
 KR
-KR
 KW
 KG
 LA
@@ -125,7 +125,6 @@ LV
 LB
 LS
 LR
-LY
 LY
 LI
 LT
@@ -153,12 +152,10 @@ MS
 MA
 MZ
 MM
-MM
 NA
 NR
 NP
 NL
-AN
 NC
 NZ
 NI
@@ -185,14 +182,13 @@ QA
 RE
 RO
 RU
-RU
 RW
+BL
 SH
 KN
 LC
+MF
 PM
-VC
-VC
 VC
 WS
 SM
@@ -203,6 +199,7 @@ RS
 SC
 SL
 SG
+SX
 SK
 SI
 SB
@@ -219,7 +216,6 @@ SZ
 SE
 CH
 SY
-TW
 TW
 TJ
 TZ
@@ -244,8 +240,6 @@ UY
 UZ
 VU
 VE
-VE
-VN
 VN
 VG
 VI
